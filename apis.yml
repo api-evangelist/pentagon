@@ -1,22 +1,90 @@
 aid: pentagon
 name: Pentagon
-description: Pentagon is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Pentagon is a work studio that turns AI agents into teammates — a shared
+  workspace where autonomous agents communicate, delegate tasks, and
+  self-organize as a team under human oversight. Built by Arlington Labs, Inc.
+  and backed by Y Combinator (Spring 2026), Pentagon runs as a native Mac app
+  centered on a spatial canvas where every agent has a place, a live status
+  report, persistent memory, and a knowledge base that compounds over time.
+  Agents run on pluggable runtimes (Claude Code, Codex), attach reusable skill
+  packs (slash-commands like /review, /qa, /ship), and connect to Gmail, Slack,
+  GitHub, Linear, and 200+ other apps to do real work. Pentagon positions
+  itself as the control plane for agent-native work — "stop running agents,
+  start running teams."
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://pentagon.run/og-image.png
 url: https://raw.githubusercontent.com/api-evangelist/pentagon/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
-x-tier: stub
-x-tier-reason: portfolio-lead
-specificationVersion: '0.20'
-created: '2026-07-17'
-modified: '2026-07-17'
+x-legal-entity: Arlington Labs, Inc.
+x-founder: Edgar Pavlovsky
+x-yc-batch: Spring 2026
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- Agent Orchestration
+- Multi-Agent Systems
+- Developer Tools
+- Productivity
+- Workspace
+- Y Combinator
+created: '2026-07-17'
+modified: '2026-07-20'
 apis: []
+common:
+- type: Website
+  url: https://pentagon.run
+- type: DeveloperPortal
+  url: https://docs.pentagon.run
+- type: Documentation
+  url: https://docs.pentagon.run
+- type: GettingStarted
+  url: https://docs.pentagon.run/quickstart
+- type: ChangeLog
+  url: https://pentagon.run/changelog
+- type: ChangeLog
+  name: Changelog (artifact)
+  url: changelog/pentagon-changelog.yml
+- type: LLMsTxt
+  url: llms/pentagon-llms.txt
+- type: SignUp
+  name: Download
+  url: https://pentagon.run/download
+- type: TermsOfService
+  url: https://pentagon.run/terms
+- type: PrivacyPolicy
+  url: https://pentagon.run/privacy
+- type: Support
+  name: Talk to sales / Enterprise
+  url: https://pentagon.run/enterprise
+- type: Twitter
+  url: https://x.com/runpentagon
+- type: GitHubOrganization
+  name: Arlington Labs (Pentagon)
+  url: https://github.com/arlington-labs
+- type: DomainSecurity
+  url: security/pentagon-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1

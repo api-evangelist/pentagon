@@ -1,0 +1,23 @@
+generated: '2026-07-20'
+method: searched
+source: https://pentagon.run/changelog
+scheme: semver
+cadence: New releases ship weekly.
+current_version: 1.8.2
+notes: >-
+  Pentagon publishes a public product changelog on its marketing site. Entries
+  are version-tagged (semver) with a release date and a Download link per
+  release; per-release detail is rendered on the changelog page. Captured here
+  is the recent window observed on 2026-07-20.
+entries:
+- version: 1.8.2
+  date: '2026-06-18'
+  label: Latest
+- version: 1.8.1
+  date: '2026-06-13'
+- version: 1.8.0
+  date: '2026-06-10'
+- version: 1.7.10
+  date: '2026-06-09'
+- version: 1.7.9
+  date: '2026-06-08'

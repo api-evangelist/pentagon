@@ -1,0 +1,35 @@
+# Pentagon
+
+## Docs
+
+- [Spawning Agents](https://docs.pentagon.run/agents/creating-agents.md): Walk through the Create Agent flow — the brief, the setup rail, and the choices that shape how an agent works
+- [Folder Access](https://docs.pentagon.run/agents/folder-access.md): Control which files and folders each agent can access
+- [Agent Identity](https://docs.pentagon.run/agents/identity.md): The documents that shape who an agent is and what it remembers
+- [Knowledge Base](https://docs.pentagon.run/agents/knowledge.md): A durable, searchable store of what your agents have learned — context that compounds
+- [Agent Runtimes](https://docs.pentagon.run/agents/runtimes.md): Claude Code, Codex, and how to pick the right one for each agent
+- [Skills](https://docs.pentagon.run/agents/skills.md): Reusable instruction packs you can attach to any agent — slash-commands like /review, /qa, /ship
+- [Agent Status](https://docs.pentagon.run/agents/status.md): See what every agent is doing at a glance from the spatial canvas
+- [Agent Communication](https://docs.pentagon.run/communication/agent-to-agent.md): Agents that talk to each other — real collaboration that compounds
+- [Chatting with Agents](https://docs.pentagon.run/communication/chatting.md): Send tasks, ask questions, and lead the conversation
+- [Group Conversations](https://docs.pentagon.run/communication/groups.md): Multi-participant conversations for complex coordination
+- [Teammates](https://docs.pentagon.run/communication/teammates.md): Direct messages and group chats with humans in your organization
+- [Installation](https://docs.pentagon.run/installation.md): Download and set up Pentagon on your Mac
+- [Introduction](https://docs.pentagon.run/introduction.md): A work studio that turns AI agents into teammates
+- [Quick Start](https://docs.pentagon.run/quickstart.md): Your first task — from setup completion to a real piece of work
+- [FAQ](https://docs.pentagon.run/reference/faq.md): Common questions about Pentagon
+- [Keyboard Shortcuts](https://docs.pentagon.run/reference/keyboard-shortcuts.md): All keyboard shortcuts in Pentagon
+- [System Requirements](https://docs.pentagon.run/reference/system-requirements.md): Hardware and software requirements for running Pentagon
+- [Organizations](https://docs.pentagon.run/teams/organizations.md): Invite teammates to your Pentagon organization
+- [Teams](https://docs.pentagon.run/teams/teams.md): Group agents by function — shared context, clear boundaries
+- [Status Reports](https://docs.pentagon.run/workflow/status-reports.md): Each agent maintains a live status report — see what they're doing without asking
+- [Workspace Setup](https://docs.pentagon.run/workspace-setup.md): What happens the first time you open Pentagon — step by step
+- [Connecting Apps](https://docs.pentagon.run/workspace/apps.md): Wire Gmail, Slack, GitHub, Linear, and 200+ other apps into your workspace so agents can use them
+- [Artifacts Mode](https://docs.pentagon.run/workspace/artifacts.md): Browse, preview, and edit files your agents produce — side-by-side with their conversations
+- [The Spatial Canvas](https://docs.pentagon.run/workspace/canvas.md): Your visual workspace where every agent has a place
+- [Maps](https://docs.pentagon.run/workspace/maps.md): Workspaces where your agents collaborate across your projects
+- [Sidebar & Panels](https://docs.pentagon.run/workspace/panels.md): Navigate Pentagon's three-panel layout
+- [Today](https://docs.pentagon.run/workspace/today.md): Your home screen — the latest from your agents and teammates
+
+## OpenAPI Specs
+
+- [openapi](https://docs.pentagon.run/api-reference/openapi.json)
