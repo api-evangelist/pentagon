@@ -12,6 +12,7 @@ description: >-
   GitHub, Linear, and 200+ other apps to do real work. Pentagon positions
   itself as the control plane for agent-native work — "stop running agents,
   start running teams."
+specificationVersion: '0.23'
 accessModel:
   pricing: unknown
   onboarding: unknown
